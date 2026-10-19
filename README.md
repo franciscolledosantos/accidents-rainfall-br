@@ -34,3 +34,9 @@ Raw input files are **not** redistributed in this repository; they are large and
 ## Citation
 
 See `CITATION.cff` (co-authors to be added). Licence: MIT.
+
+## Archive
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23461547.svg)](https://doi.org/10.5281/zenodo.23461547)
+
+Version v1.0.0: https://doi.org/10.5281/zenodo.23461548
